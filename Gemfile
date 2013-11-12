@@ -23,4 +23,3 @@ group :test do
 end
 
 gem 'twitter'
-
